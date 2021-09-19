@@ -1,0 +1,2 @@
+# arentContainsErrorRecordException-
+The string starting: At line:1 char:49 + (Get-WmiObject -list win32_shadowcopy).Create(C: &lt;&lt;&lt;&lt; ",ClientAccessible)   is missing the terminator: ". At line:1 char:70 + (Get-WmiObject -list win32_shadowcopy).Create(C:",ClientAccessible)   &lt;&lt;&lt;&lt;      + CategoryInfo          : ParserError: (,ClientAccessible)  :String) [], P     arentContainsErrorRecordException     + FullyQualifiedErrorId : TerminatorExpectedAtEndOfString
